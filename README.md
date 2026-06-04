@@ -3,6 +3,6 @@ Simply RCON client for DAYZ server owners. You don't need to use old BEC client 
 
 ![Image alt](https://github.com/unpleme/DAYZ-RCON-CLIENT/blob/main/1.jpg)
 ![Image alt](https://github.com/unpleme/DAYZ-RCON-CLIENT/blob/main/2.jpg)
-![Image alt](https://github.com/unpleme/DAYZ-RCON-CLIENT/blob/main/3.jpg)
+![Image alt](https://github.com/unpleme/DAYZ-RCON-CLIENT/blob/main/3.png)
 
 unpleme.com
